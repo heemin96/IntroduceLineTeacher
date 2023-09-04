@@ -49,7 +49,7 @@ function Main() {
             <div className=" self-center ">
               <Link href="https://xn--9g4bvetcu97d.com/notice" target="_blank">
                 <button className="flex text-xl items-center bg-[#54AC35] text-white font-bold border-0 py-1  px-3 focus:outline-none hover:bg-blue-500 rounded">
-                  다운로드
+                  바로가기
                 </button>
               </Link>
             </div>
