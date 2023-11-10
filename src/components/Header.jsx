@@ -32,11 +32,11 @@ function Header() {
             </div>
           </Link>
           <Link
-            href="https://www.myasset.com/extern/eventtotal/views/dmstcStock.jsp?mkt=keyword_naverpc_tradar&gclid=CjwKCAjw44mlBhAQEiwAqP3eVtCtdTiIYnP5TPcjoIOwD345q6QyK6oxlOKGBnubcxeiRki_hkoOOxoCEd0QAvD_BwE"
+            href="https://m.eugenefn.com/main.do"
             target="_blank"
           >
             <div className="hover:text-gray-900 text-lg font-bold drop-shadow-lg  max-[360px]:text-base">
-              유안타증권
+              유진투자증권
             </div>
           </Link>
         </div>
